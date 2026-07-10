@@ -1,8 +1,4 @@
-<%-- 
-    Document   : altaUsuarios
-    Created on : 9 jul. 2026, 16:18:06
-    Author     : Luigi
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@include file="components/header.jsp" %>
