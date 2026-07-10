@@ -58,7 +58,7 @@
                                     <input type="hidden" name="id" value="<%= usu.getId_usuario()%>">
                                 </form>
 
-                                <form name="editar" action="SvEditUsuarios" method="POST">
+                                <form name="editar" action="SvEditUsuarios" method="GET">
                                     <button type="submit" class="btn btn-primary btn-user btn-block"
                                             style="margin-left: 5px;">
                                         <i class="fas fa-pencil-alt"></i> Editar
